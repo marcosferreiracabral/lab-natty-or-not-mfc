@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Ebook com IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Construção de um eBook com o uso de IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT baseado no GPT-5.2
+Gemini baseado no Gemini 3
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevi o prompt inicial, transformei em Markdown, executei o prompt de construção do Ebook, salvei em PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O PDF do Ebook finalizado.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+Excelente aprendizado, com insights de negócios
 ```
 
 ### Exemplos e Insigths
